@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>capacitacaobanriconcursados-master</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
+
+
+https://seubarriga.wcaquino.me/
+
+centro de custos
+164.10.111.00
+https://howtodoinjava.com/junit5/junit5-test-suites-examples/
+
+//div[@class='form-group col-lg-9']/table[@id='tabelaExtrado']/tbody/tr/td[text()='Testando Receita']
